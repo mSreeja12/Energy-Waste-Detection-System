@@ -85,16 +85,8 @@ You can test the app using any video, or download from:
 
 ---
 
-## 🧪 Example Output
-
-* ✅ Detected Objects: person, lamp, tv
-* ⚠️ Energy Wastage Detected: Light is on but no person is present.
-
----
-
 ## 🧠 Future Improvements
 
-* Train a **custom YOLO model** to better detect specific appliances (e.g., fan, tube light).
 * Add **real-time webcam** support.
 * Export results as **PDF/CSV reports**.
 * Integrate with **Raspberry Pi or edge device** for home automation.
